@@ -1,6 +1,10 @@
-# Regular Expression Tutorial
+# Matching an Email Address - Regex Tutorial
 
-A tutorial on regular expressions.
-Guide to be used for quick reference.
+## Table of Contents
 
--Ap 2023.
+- [Introduction](#introduction)
+
+ /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+
+- [What is a Regular Expression?]
+- [Why Use Regular Expressions?]
